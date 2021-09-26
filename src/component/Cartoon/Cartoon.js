@@ -15,7 +15,7 @@ const Cartoon = (props) => {
                     <p className ="card-text">Rank: {rank}</p>
                     <p className ="card-text">Cost: {sponsorCost}</p>
                 <button onClick={() => props.handleAddToCart(props.cartoon)}
-                        className="btn-regular btn-success"><i className="fas fa-cart-arrow-down icon-class"></i>Add to cart</button>
+                        className="btn-regular btn-success"><i className="fas fa-cart-arrow-down icon-class"></i>Add Me</button>
                 </div>
             </div>
 
