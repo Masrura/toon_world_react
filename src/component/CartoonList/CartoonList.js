@@ -22,6 +22,9 @@ const CartoonList = () => {
             newCart.push(cartoon);
             setCart(newCart);
         }
+        else {
+            alert("Already Selected");
+        }
         
        
         

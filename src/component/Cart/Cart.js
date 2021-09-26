@@ -11,8 +11,11 @@ const Cart = (props) => {
     console.log("Total =", total);
     return (
         <div className="cart sticky-top">
-            <p>Total Items Added: {props.cart.length}</p>
-            <p> Total Cost: { total}</p>
+            <div className="top-info">
+                <h5>Total Items Added: {props.cart.length}</h5>
+                <h5> Total Cost:<i class="fas fa-dollar-sign icon fa-lg"> </i>{total}</h5>
+            </div>
+           
             {
                 props.cart.map((c) => <CartDetails key={ c.id} name={c}></CartDetails>)
             }

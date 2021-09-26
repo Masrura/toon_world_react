@@ -1,4 +1,14 @@
 .cart{
     padding: 5%;
-    border: 3px solid brown;
+   background-color: darkslategray;
+   border: 5px solid black;
+   color: white;
+   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.top-info{
+    padding: 4%;
+}
+.icon{
+    color: goldenrod;
+    margin: 5px;
 }
