@@ -9,7 +9,10 @@
     padding: 4%;
 }
 .icon{
+    color: goldenrod;
+    margin: 5px;
+}
+.icon-check-out{
     color: white;
-    
     margin: 5px;
 }

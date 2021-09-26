@@ -20,7 +20,7 @@ const Cart = (props) => {
             {
                 props.cart.map((c) => <CartDetails key={c.id} name={c}></CartDetails>)
             }
-            <button className="btn-regular btn-primary"><i class="fas fa-shopping-bag icon"></i>Check Out</button>
+            <button className="btn-regular btn-primary"><i class="fas fa-shopping-bag icon-check-out"></i>Check Out</button>
         </div>
 
 

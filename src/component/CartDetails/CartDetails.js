@@ -7,7 +7,7 @@ const CartDetails = (props) => {
             <div className="cartDetails">
                 <img src={img} alt="" />
                 <p>{name}</p>
-                <p><i class="fas fa-dollar-sign icon fa-lg"> </i>{sponsorCost}</p>
+                <p><i class="fas fa-dollar-sign icon-nested fa-lg"> </i>{sponsorCost}</p>
             </div>
         </div>
        
