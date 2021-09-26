@@ -1,10 +1,15 @@
 import React from 'react';
-
+import './CartDetails.css'
 const CartDetails = (props) => {
+    const { name, img } = props.name;
     return (
-        <div>
-            <h5>{props.name}</h5>
+        <div className="cart-detail-container">
+            <div className="cartDetails">
+                <img src={img} alt="" />
+                <p>{name}</p>
+            </div>
         </div>
+       
     );
 };
 

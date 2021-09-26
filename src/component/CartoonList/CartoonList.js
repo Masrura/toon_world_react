@@ -37,7 +37,7 @@ const CartoonList = () => {
                 }
             </div>
             <div className="col-md-3 cart-container">
-                <Cart cart= {cart} ></Cart>
+                <Cart cart = {cart} ></Cart>
             </div>
         </div>
     );

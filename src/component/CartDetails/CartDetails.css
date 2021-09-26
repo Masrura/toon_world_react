@@ -1,0 +1,15 @@
+.cart-detail-container{
+    text-align: center;
+}
+.cartDetails{
+    display: flex;
+    justify-content: start;
+}
+.cartDetails p{
+   margin: 10px;
+}
+.cartDetails img{
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+}

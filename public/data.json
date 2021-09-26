@@ -34,5 +34,77 @@
         "rank": 13,
         "img": "https://i1.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/Jiminy_Cricket.png?w=995&ssl=1",
         "sponsorCost": 200
+    },
+    {
+        "id": 5,
+        "name": "Scar",
+        "movie": " The Lion King",
+        "year": "1994",
+        "rank": 13,
+        "img": "https://i1.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/MV5BNzU0MDI2MTY0Ml5BMl5BanBnXkFtZTcwNDU2NTI3Ng@@._V1_SX1777_CR001777999_AL_.jpg?w=1024&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 6,
+        "name": "Goofy ",
+        "movie": "Goofy",
+        "year": "1932",
+        "rank": 11,
+        "img": "https://i2.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/Goofy-1.jpg?resize=1024%2C576&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 7,
+        "name": "Donald Duck",
+        "movie": "Donald Duck ",
+        "year": "1934",
+        "rank": 3,
+        "img": "https://i2.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/donald_duck.png?resize=1024%2C580&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 8,
+        "name": "Mickey Mouse",
+        "movie": "Mickey Mouse",
+        "year": "1928",
+        "rank": 4,
+        "img": "https://i2.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/Mickey-Mouse.png?resize=1024%2C597&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 9,
+        "name": "The Princesses",
+        "movie": "Ralph Breaks the Internet",
+        "year": "2018",
+        "rank": 5,
+        "img": "https://i0.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/Disney_Princesses_Selfie.jpg?w=985&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 10,
+        "name": "Genie",
+        "movie": "Aladdin  ",
+        "year": "1992",
+        "rank": 1,
+        "img": "https://i0.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/GenieAladdin.png?resize=1024%2C597&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 11,
+        "name": "Winnie the Pooh",
+        "movie": "Winnie the Pooh",
+        "year": "1966",
+        "rank": 7,
+        "img": "https://i2.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/winnie-the-pooh.jpg?resize=1024%2C578&ssl=1",
+        "sponsorCost": 200
+    },
+    {
+        "id": 12,
+        "name": "Hades",
+        "movie": "Hercules",
+        "year": "1997",
+        "rank": 13,
+        "img": "https://i1.wp.com/screenagewasteland.com/wp-content/uploads/2020/04/Hades.jpg?resize=1024%2C576&ssl=1",
+        "sponsorCost": 400
     }
 ]
