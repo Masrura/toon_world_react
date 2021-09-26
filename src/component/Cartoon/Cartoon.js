@@ -2,6 +2,7 @@ import React from 'react'
 import './Cartoon.css'
 
 const Cartoon = (props) => {
+    //destructuring
     const { name, movie, rank, year, sponsorCost, img } = props.cartoon;
   //  console.log(props);
     return (

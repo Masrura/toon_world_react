@@ -5,7 +5,9 @@ import Header from './component/Header/Header';
 function App() {
   return (
     <div className="App">
+      {/* Header Component */}
       <Header></Header>
+      {/* Cartoon Content */}
       <CartoonList></CartoonList>                                        
     </div>
   );
